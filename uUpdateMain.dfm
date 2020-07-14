@@ -4,11 +4,10 @@ object frmUpdateMain: TfrmUpdateMain
   Top = 459
   Width = 625
   BorderIcons = [biSystemMenu, biMinimize]
-  Caption = '更新程序 2020 v1'
+  Caption = '更新程序 2020 v2'
   ClientHeight = 257
   ClientWidth = 625
   Color = clBtnFace
-  DesignTimePPI = 120
   Font.CharSet = ANSI_CHARSET
   Font.Color = clWindowText
   Font.Height = -14

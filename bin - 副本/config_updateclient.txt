@@ -1,0 +1,3 @@
+CompanyName="xm"
+MainExe="xmpp_mini.exe"
+HttpFileName=http://softhub.oss-cn-hangzhou.aliyuncs.com/down/xmppmini/file_list.txt

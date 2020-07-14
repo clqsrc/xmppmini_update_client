@@ -15,6 +15,12 @@
       </XPManifest>
       <Icon Value="0"/>
     </General>
+    <VersionInfo>
+      <UseVersionInfo Value="True"/>
+      <MajorVersionNr Value="2020"/>
+      <BuildNr Value="2"/>
+      <StringTable Comments="https://github.com/clqsrc/xmppmini_update_client" CompanyName="https://github.com/clqsrc/xmppmini_update_client" FileDescription="https://github.com/clqsrc/xmppmini_update_client" InternalName="update_client" ProductName="update_client"/>
+    </VersionInfo>
     <BuildModes Count="3">
       <Item1 Name="Default" Default="True"/>
       <Item2 Name="Debug">
@@ -64,7 +70,7 @@
           <Version Value="11"/>
           <PathDelim Value="\"/>
           <Target>
-            <Filename Value="bin\update_client"/>
+            <Filename Value="bin - 副本\update_client"/>
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
@@ -135,7 +141,7 @@
     <Version Value="11"/>
     <PathDelim Value="\"/>
     <Target>
-      <Filename Value="bin\update_client"/>
+      <Filename Value="bin - 副本\update_client"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
